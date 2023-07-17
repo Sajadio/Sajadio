@@ -52,7 +52,8 @@
 </a>
 </p>
 
-# 📊 GitHub Stats:
+
+<p><h2 align="left">📊 GitHub Stats:</h2></p>
 ![](https://github-readme-stats.vercel.app/api?username=sajadio&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajadio&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadio&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
