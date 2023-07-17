@@ -1,4 +1,4 @@
-[[MasterHead](https://th.bing.com/th/id/R.e16fd98a28bb2ab7fed2706ea864a71c?rik=DlVdpcIp72vWJg&pid=ImgRaw&r=0)
+[![MasterHead](https://th.bing.com/th/id/R.e16fd98a28bb2ab7fed2706ea864a71c?rik=DlVdpcIp72vWJg&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
 <h3 align="center">Android Developer</h3>
