@@ -15,7 +15,6 @@
 
 <h3 align="left">📫 Contact Me on Social Media: </h3>
 <p align="left">
-<a href="https://twitter.com/sajjad_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjad_io" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sajjad-abdel-aziz-98887a1b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bwnibpk65rdci5zl8hnaqca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjad-abdel-aziz-98887a1b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bwnibpk65rdci5zl8hnaqca%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/sajjadio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjadio" height="30" width="40" /></a>
 </p>
