@@ -14,7 +14,7 @@
 - 🌟 Fun fact: **I derive immense joy from assisting others and witnessing the happiness it brings. Whether it's providing assistance to a colleague facing a challenging task or actively volunteering in my community, making a positive impact on someone's day is something that deeply resonates with me. Knowing that my actions can bring a smile to someone's face and make a genuine difference in their life is incredibly fulfilling. This rewarding feeling serves as a constant motivation for me to consistently spread positivity and kindness, leaving a positive mark wherever my journey as a developer takes me.
  ❤️**
 
-<h2 align="left">📫 Contact Me on Social Media: </h2>
+<p><h2 align="left">📫 Contact Me on Social Media: </h2></p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sajjad-abdel-aziz-98887a1b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bwnibpk65rdci5zl8hnaqca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjad-abdel-aziz-98887a1b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bwnibpk65rdci5zl8hnaqca%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/sajjadio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjadio" height="30" width="40" /></a>
