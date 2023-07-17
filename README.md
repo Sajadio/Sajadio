@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadio&label=Profile%20views&color=0e75b6&style=flat" alt="sajadio" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/sajjad-abdel-aziz-98887a1b4/" target="blank"><img src="https://img.shields.io/twitter/follow/sajjad_io?logo=twitter&style=for-the-badge" alt="sajjad_io" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter** and focusing on **Jetpack compose**
 
