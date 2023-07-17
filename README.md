@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **sajad20862@gmail.com**
 
-- ⚡ Fun fact **I am funny 😁**
+- 🌟 Fun fact **I derive immense joy from assisting others and witnessing the happiness it brings. Whether it's providing assistance to a colleague facing a challenging task or actively volunteering in my community, making a positive impact on someone's day is something that deeply resonates with me. Knowing that my actions can bring a smile to someone's face and make a genuine difference in their life is incredibly fulfilling. This rewarding feeling serves as a constant motivation for me to consistently spread positivity and kindness, leaving a positive mark wherever my journey as a developer takes me.
+ ❤️**
 
 <h3 align="left">📫 Contact Me on Social Media: </h3>
 <p align="left">
