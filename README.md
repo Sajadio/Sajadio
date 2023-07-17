@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
 <h3 align="center">Android Developer</h3>
-(img align="right" alt="Coding" width="400" src=https://th.bing.com/th/id/R.5083e0a2a7dcaae07c142e8b87036a27?rik=bEMEJ41n0UyDsA&pid=ImgRaw&r=0)
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.5083e0a2a7dcaae07c142e8b87036a27?rik=bEMEJ41n0UyDsA&pid=ImgRaw&r=0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadio&label=Profile%20views&color=0e75b6&style=flat" alt="sajadio" /> </p>
 
