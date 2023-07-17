@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sajjad_io" target="blank"><img src="https://img.shields.io/twitter/follow/sajjad_io?logo=twitter&style=for-the-badge" alt="sajjad_io" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and focusing on **Jetpack compose**
 
 - 💬 Ask me about **Kotlin, Android**
 
